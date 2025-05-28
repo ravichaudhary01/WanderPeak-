@@ -3,6 +3,10 @@ WanderPeak – Travel and Adventure
 
 WanderPeak is your personal window into the world of breathtaking destinations and unforgettable journeys. Designed with clean HTML, elegant CSS, and a hint of JavaScript magic, WanderPeak delivers an immersive browsing experience for travel lovers.
 
+## 🌐 Live Demo
+
+👉 [Click here to view the live site](https://ravichaudhary01.github.io/WanderPeak-/)
+
 ✨ Why WanderPeak?
 🎨 Beautiful UI – A modern, responsive design built to captivate.
 
